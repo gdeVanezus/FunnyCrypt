@@ -1,0 +1,1 @@
+from .funnycrypt import FunnyCrypt
