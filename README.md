@@ -2,7 +2,7 @@
 > Encrypting text using Caesar ciphers
 
 > [!NOTE]
-> This code was done in 10 minutes
+> This module was done in 10 minutes
 
 Installing:
 ```
