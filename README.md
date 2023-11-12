@@ -1,5 +1,6 @@
 # FunnyCrypt
 > Encrypting text using Caesar ciphers
+
 > [!NOTE]
 > This code was done in 10 minutes
 
